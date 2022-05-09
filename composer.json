@@ -11,13 +11,13 @@
     },
     "autoload": {
         "psr-4": {
-            "SistemaBoss\\NovaCardHtml\\": "src/"
+            "JeffersonSimaoGoncalves\\NovaCardHtml\\": "src/"
         }
     },
     "extra": {
         "laravel": {
             "providers": [
-                "SistemaBoss\\NovaCardHtml\\CardServiceProvider"
+                "JeffersonSimaoGoncalves\\NovaCardHtml\\CardServiceProvider"
             ]
         }
     },

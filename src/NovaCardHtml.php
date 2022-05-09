@@ -1,6 +1,6 @@
 <?php
 
-namespace SistemaBoss\NovaCardHtml;
+namespace JeffersonSimaoGoncalves\NovaCardHtml;
 
 use Illuminate\Mail\Markdown;
 use Laravel\Nova\Card;
